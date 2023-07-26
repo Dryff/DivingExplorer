@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{36F40411-9F20-126B-97B3-1D2C37E2B598}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerJump.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerJump.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Traveller of Day and Night" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0b895285-5050-4b73-8332-318614e6a2ac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
